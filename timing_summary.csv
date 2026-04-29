@@ -1,0 +1,4 @@
+﻿input_size,status,processed_count,total_images,model_load_time_sec,total_time_sec,pure_inference_time_sec,avg_inference_time_sec,avg_end_to_end_time_sec,resize_mode,output_size_mode,image_prep,use_fp16
+256x256,completed,890,890,4.872887,189.066427,168.958785,0.189841,0.212434,pad,fixed,no_resize,False
+512x512,completed,890,890,4.872887,514.278262,470.448107,0.528593,0.577841,pad,fixed,no_resize,False
+768x768,completed,890,890,4.872887,1109.712312,1020.8755,1.147051,1.246868,pad,fixed,no_resize,False
